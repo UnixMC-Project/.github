@@ -1,3 +1,4 @@
+[![Discord](https://img.shields.io/discord/1057831496926376018.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/unixmc)
 # UnixMC Minecraft Project
 
 Welcome to the official repository for UnixMC, an immersive and innovative Minecraft experience.
