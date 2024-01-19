@@ -24,7 +24,7 @@ We welcome contributions from the community. If you have ideas or suggestions, p
 
 ## Support
 
-If you encounter any issues or have questions, please use the GitHub Issues section. For real-time support, join our Discord community: [UnixMC Discord](#).
+If you encounter any issues or have questions, please use the GitHub Issues section. For real-time support, join our Discord community: [UnixMC Discord](https://discord.gg/unixmc).
 
 ## License
 
