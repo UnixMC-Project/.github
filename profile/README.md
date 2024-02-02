@@ -29,8 +29,8 @@ If you encounter any issues or have questions, please use the GitHub Issues sect
 
 ## License
 
-UnixMC is protected under a custom End User License Agreement (EULA) to ensure the best experience for all users and maintain the integrity of our project.
-Please review the EULA before contributing or participating in the UnixMC community: [UnixMC EULA](https://github.com/UnixMC-Project/.github/blob/main/EULA.md).
+UnixMC is protected under a custom End User License Agreement ([EULA]([url](https://github.com/UnixMC-Project/.github/blob/main/EULA.md))) to ensure the best experience for all users and maintain the integrity of our project.
+Please review the EULA before contributing or participating in the UnixMC community.
 
 ## Acknowledgments
 
