@@ -1,8 +1,8 @@
 [![EULA](https://img.shields.io/badge/EULA-Read%20Here-blue.svg)](https://github.com/UnixMC-Project/.github/blob/main/EULA.md)
 [![Discord](https://img.shields.io/discord/1057831496926376018.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/unixmc)
 [![TikTok](https://img.shields.io/badge/TikTok-%40unixmc-red.svg?logo=tiktok)](https://www.tiktok.com/@unixmc)
-[![Twitter Follow](https://img.shields.io/twitter/follow/unixmc?style=social)](https://twitter.com/unixmc)
-[![YouTube Channel](https://img.shields.io/badge/YouTube-Subscribe-red.svg?logo=YouTube)](https://www.youtube.com/channel/UNIXMC_CHANNEL_ID)
+[![Twitter Follow](https://img.shields.io/twitter/follow/unixmc?style=social)](https://twitter.com/UnixMCLabs)
+[![YouTube Channel](https://img.shields.io/badge/YouTube-Subscribe-red.svg?logo=YouTube)](https://www.youtube.com/@UnixMCLabs)
 [![Website](https://img.shields.io/badge/Website-unixmc.net-blue.svg)](https://www.unixmc.net)
 
 # Welcome to UnixMC
@@ -40,8 +40,8 @@ For more details on contributing, please refer to our [Contributing Guidelines](
 
 We value your feedback and contributions. Please share your bug reports and feature requests to help improve UnixMC.
 
-- **Reporting Bugs**: For guidelines on submitting bug reports, please see our [Bug Report Template](.github/BUG_REPORT_TEMPLATE.md).
-- **Feature Requests**: To suggest a new feature, refer to our [Feature Request Template](.github/FEATURE_REQUEST_TEMPLATE.md).
+- **Reporting Bugs**: For guidelines on submitting bug reports, please see our [Bug Report Template](BUG_REPORT_TEMPLATE.md).
+- **Feature Requests**: To suggest a new feature, refer to our [Feature Request Template](FEATURE_REQUEST_TEMPLATE.md).
 
 ## FAQs
 
