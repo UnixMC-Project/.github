@@ -6,8 +6,8 @@
 [![Website](https://img.shields.io/badge/Website-unixmc.net-blue.svg)](https://www.unixmc.net)
 
 # Welcome to UnixMC
-
-Dive into an immersive and innovative Minecraft experience with UnixMC. Blending traditional gameplay with unique features, UnixMC offers an adventure like no other.
+Welcome to the official repository for UnixMC, an immersive and innovative Minecraft experience.
+UnixMC blends traditional Minecraft gameplay with unique enhancements and features, providing players with an unforgettable adventure.
 
 ## Features
 
