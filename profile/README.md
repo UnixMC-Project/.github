@@ -1,7 +1,7 @@
 [![EULA](https://img.shields.io/badge/EULA-Read%20Here-blue.svg)](https://github.com/UnixMC-Project/.github/blob/main/EULA.md)
 [![Discord](https://img.shields.io/discord/1057831496926376018.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/unixmc)
 [![TikTok](https://img.shields.io/badge/TikTok-%40unixmc-red.svg?logo=tiktok)](https://www.tiktok.com/@unixmc)
-[![Twitter Follow](https://img.shields.io/twitter/follow/unixmc?style=social)](https://twitter.com/UnixMCLabs)
+[![Twitter Follow](https://img.shields.io/twitter/follow/UnixMCLabs?style=social)](https://twitter.com/UnixMCLabs)
 [![YouTube Channel](https://img.shields.io/badge/YouTube-Subscribe-red.svg?logo=YouTube)](https://www.youtube.com/@UnixMCLabs)
 [![Website](https://img.shields.io/badge/Website-unixmc.net-blue.svg)](https://www.unixmc.net)
 
