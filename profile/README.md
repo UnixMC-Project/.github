@@ -41,3 +41,18 @@ UnixMC operates under a [EULA](https://github.com/UnixMC-Project/.github/blob/ma
 Thanks to everyone who has contributed to UnixMC. Your efforts fuel our shared adventure.
 
 Enjoy UnixMC, where creativity and adventure are limitless!
+
+## Support Us
+
+UnixMC is a labor of love, built and maintained by a passionate community of volunteers. While we dedicate our time and skills to create an immersive and innovative Minecraft experience, your support can help us cover the costs associated with development, hosting, and future enhancements.
+
+If you enjoy UnixMC and wish to contribute financially, consider making a donation through PayPal. Every little bit helps us keep the project alive and kicking, ensuring regular updates and continuous improvements.
+
+[Donate via PayPal](https://paypal.me/talesu)
+
+Thank you for your support and contribution to the UnixMC project. Together, we can make UnixMC even more extraordinary!
+
+---
+
+Enjoy your time in UnixMC - where creativity and adventure know no bounds!
+
