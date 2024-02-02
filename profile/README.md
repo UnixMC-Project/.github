@@ -1,3 +1,5 @@
+<div align="center">
+
 [![EULA](https://img.shields.io/badge/EULA-Read%20Here-blue.svg)](https://github.com/UnixMC-Project/.github/blob/main/EULA.md)
 [![Discord](https://img.shields.io/discord/1057831496926376018.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/unixmc)
 [![TikTok](https://img.shields.io/badge/TikTok-%40unixmc-red.svg?logo=tiktok)](https://www.tiktok.com/@unixmc)
@@ -8,6 +10,8 @@
 # Welcome to UnixMC
 
 Welcome to the official repository for UnixMC, an immersive and innovative Minecraft experience. UnixMC blends traditional Minecraft gameplay with unique enhancements and features, providing players with an unforgettable adventure.
+
+</div>
 
 ## Features
 
@@ -58,6 +62,10 @@ A: Please report bugs or suggest features through our Discord community.
 
 UnixMC operates under a [EULA](https://github.com/UnixMC-Project/.github/blob/main/EULA.md). Review it before participating to ensure a great experience for everyone.
 
+<div align="center">
+
 ## Acknowledgments
 
 Thanks to everyone who has contributed to UnixMC. Your efforts fuel our shared adventure. Enjoy your time in UnixMC - where creativity and adventure know no bounds!
+
+</div>
