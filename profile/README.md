@@ -6,8 +6,8 @@
 [![Website](https://img.shields.io/badge/Website-unixmc.net-blue.svg)](https://www.unixmc.net)
 
 # Welcome to UnixMC
-Welcome to the official repository for UnixMC, an immersive and innovative Minecraft experience.
-UnixMC blends traditional Minecraft gameplay with unique enhancements and features, providing players with an unforgettable adventure.
+
+Welcome to the official repository for UnixMC, an immersive and innovative Minecraft experience. UnixMC blends traditional Minecraft gameplay with unique enhancements and features, providing players with an unforgettable adventure.
 
 ## Features
 
@@ -22,13 +22,37 @@ UnixMC blends traditional Minecraft gameplay with unique enhancements and featur
 2. **Server Address**: `play.unixmc.net`.
 3. **Explore**: Begin your UnixMC journey!
 
-## Contribute
+## Support Us
 
-Your ideas and contributions are welcome. Check our contribution guidelines and code of conduct for more details.
+UnixMC is a labor of love, built and maintained by a passionate community of volunteers. Your support can help us cover costs associated with development, hosting, and future enhancements. Consider making a donation through PayPal to keep the project thriving.
 
-## Support
+[Donate via PayPal](https://paypal.me/talesu)
 
-For assistance, post in GitHub Issues or join our [Discord](https://discord.gg/unixmc).
+Thank you for your support and contribution to the UnixMC project!
+
+## Contributing
+
+Due to the private nature of this repository, direct contributions via forking are restricted. If you're interested in contributing to UnixMC, please join our [Discord](https://discord.gg/unixmc) and express your interest in the support channel. Potential contributors will need to gain permission and sign a Non-Disclosure Agreement (NDA).
+
+For more details on contributing, please refer to our [Contributing Guidelines](CONTRIBUTING.md).
+
+## Bug Reports and Feature Requests
+
+We value your feedback and contributions. Please share your bug reports and feature requests to help improve UnixMC.
+
+- **Reporting Bugs**: For guidelines on submitting bug reports, please see our [Bug Report Template](.github/BUG_REPORT_TEMPLATE.md).
+- **Feature Requests**: To suggest a new feature, refer to our [Feature Request Template](.github/FEATURE_REQUEST_TEMPLATE.md).
+
+## FAQs
+
+**Q: How do I join the UnixMC server?**  
+A: Ensure you have Minecraft installed, then connect using the server address: `play.unixmc.net`.
+
+**Q: Can I contribute to UnixMC?**  
+A: Yes, but due to the project's private nature, please join our Discord and follow the guidelines for potential contributors.
+
+**Q: Where can I report bugs or suggest features?**  
+A: Please report bugs or suggest features through our Discord community.
 
 ## License
 
@@ -36,21 +60,4 @@ UnixMC operates under a [EULA](https://github.com/UnixMC-Project/.github/blob/ma
 
 ## Acknowledgments
 
-Thanks to everyone who has contributed to UnixMC. Your efforts fuel our shared adventure.
-
-Enjoy UnixMC, where creativity and adventure are limitless!
-
-## Support Us
-
-UnixMC is a labor of love, built and maintained by a passionate community of volunteers. While we dedicate our time and skills to create an immersive and innovative Minecraft experience, your support can help us cover the costs associated with development, hosting, and future enhancements.
-
-If you enjoy UnixMC and wish to contribute financially, consider making a donation through PayPal. Every little bit helps us keep the project alive and kicking, ensuring regular updates and continuous improvements.
-
-[Donate via PayPal](https://paypal.me/talesu)
-
-Thank you for your support and contribution to the UnixMC project. Together, we can make UnixMC even more extraordinary!
-
----
-
-Enjoy your time in UnixMC - where creativity and adventure know no bounds!
-
+Thanks to everyone who has contributed to UnixMC. Your efforts fuel our shared adventure. Enjoy your time in UnixMC - where creativity and adventure know no bounds!
