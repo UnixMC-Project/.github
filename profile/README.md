@@ -28,9 +28,9 @@ Welcome to the official repository for UnixMC, an immersive and innovative Minec
 
 ## Support Us
 
-UnixMC is a labor of love, built and maintained by a passionate community of volunteers. Your support can help us cover costs associated with development, hosting, and future enhancements. Consider making a donation through PayPal to keep the project thriving.
+UnixMC is a labor of love, built and maintained by a passionate community of volunteers. Your support on Ko-fi helps us cover the costs associated with development, hosting, and future enhancements. Every cup of coffee makes a difference and keeps the adventure alive in the UnixMC world.
 
-[Donate via PayPal](https://paypal.me/talesu)
+[Support Us on Ko-fi](https://ko-fi.com/unixmclabs)
 
 Thank you for your support and contribution to the UnixMC project!
 
