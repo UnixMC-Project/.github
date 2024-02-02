@@ -1,42 +1,43 @@
-[![Discord](https://img.shields.io/discord/1057831496926376018.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/unixmc) [![EULA](https://img.shields.io/badge/EULA-Read%20Here-blue.svg)](https://github.com/UnixMC-Project/.github/blob/main/EULA.md)
-# UnixMC Minecraft Project
+[![EULA](https://img.shields.io/badge/EULA-Read%20Here-blue.svg)](https://github.com/UnixMC-Project/.github/blob/main/EULA.md)
+[![Discord](https://img.shields.io/discord/1057831496926376018.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/unixmc)
+[![TikTok](https://img.shields.io/badge/TikTok-%40unixmc-red.svg?logo=tiktok)](https://www.tiktok.com/@unixmc)
+[![GitHub Stars](https://img.shields.io/github/stars/UnixMC-Project/.github?style=social)](https://github.com/UnixMC-Project/.github/stargazers)
+[![GitHub Forks](https://img.shields.io/github/forks/UnixMC-Project/.github?style=social)](https://github.com/UnixMC-Project/.github/network/members)
+[![Twitter Follow](https://img.shields.io/twitter/follow/unixmc?style=social)](https://twitter.com/unixmc)
+[![YouTube Channel](https://img.shields.io/badge/YouTube-Subscribe-red.svg?logo=YouTube)](https://www.youtube.com/channel/UNIXMC_CHANNEL_ID)
+[![Website](https://img.shields.io/badge/Website-unixmc.net-blue.svg)](https://www.unixmc.net)
 
-Welcome to the official repository for UnixMC, an immersive and innovative Minecraft experience.
-UnixMC blends traditional Minecraft gameplay with unique enhancements and features, providing players with an unforgettable adventure.
+# Welcome to UnixMC
+
+Dive into an immersive and innovative Minecraft experience with UnixMC. Blending traditional gameplay with unique features, UnixMC offers an adventure like no other.
 
 ## Features
 
-- **Custom Worlds**: Explore beautifully crafted, custom worlds that push the boundaries of Minecraft's creative potential.
-- **Unique Gameplay Mechanics**: Experience new gameplay elements that add depth and excitement to your adventure.
-- **Community-Driven Events**: Participate in events designed with community feedback, ensuring an engaging and dynamic experience.
-- **Regular Updates**: Enjoy frequent updates with new content, features, and improvements based on community input.
+- **Custom Worlds**: Discover worlds where creativity meets complexity.
+- **Gameplay Mechanics**: Engage with elements that bring depth to your adventure.
+- **Community Events**: Shape the game with feedback-driven events.
+- **Updates**: Stay excited with regular content additions.
 
 ## Getting Started
 
-To join the UnixMC server, follow these steps:
+1. **Install Minecraft**.
+2. **Server Address**: `play.unixmc.net`.
+3. **Explore**: Begin your UnixMC journey!
 
-1. **Install Minecraft**: Ensure you have Minecraft installed on your device.
-2. **Server Address**: Connect to the UnixMC server using the address: `play.unixmc.net`.
-3. **Enjoy**: Dive in and explore the world of UnixMC!
+## Contribute
 
-## Contributions
-
-We welcome contributions from the community. If you have ideas or suggestions, please open an issue or submit a pull request. Make sure to follow our contribution guidelines and code of conduct.
+Your ideas and contributions are welcome. Check our contribution guidelines and code of conduct for more details.
 
 ## Support
 
-If you encounter any issues or have questions, please use the GitHub Issues section. For real-time support, join our Discord community: [UnixMC Discord](https://discord.gg/unixmc).
+For assistance, post in GitHub Issues or join our [Discord](https://discord.gg/unixmc).
 
 ## License
 
-UnixMC is protected under a custom End User License Agreement ([EULA](https://github.com/UnixMC-Project/.github/blob/main/EULA.md)) to ensure the best experience for all users and maintain the integrity of our project.
-Please review the EULA before contributing or participating in the UnixMC community.
+UnixMC operates under a [EULA](https://github.com/UnixMC-Project/.github/blob/main/EULA.md). Review it before participating to ensure a great experience for everyone.
 
 ## Acknowledgments
 
-A special thank you to all contributors and community members who have made UnixMC a reality. Your support and enthusiasm are the backbone of this project.
+Thanks to everyone who has contributed to UnixMC. Your efforts fuel our shared adventure.
 
----
-
-Enjoy your time in UnixMC - where creativity and adventure know no bounds!
-
+Enjoy UnixMC, where creativity and adventure are limitless!
