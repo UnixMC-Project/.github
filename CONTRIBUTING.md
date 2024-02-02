@@ -1,58 +1,58 @@
 <div align="center">
 
-# Contributing to UnixMC
+# How to Contribute to UnixMC
 
-[![Discord](https://img.shields.io/discord/1057831496926376018.svg?label=Join%20us%20on%20Discord&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/unixmc)
-[![Issues](https://img.shields.io/github/issues/UnixMC-Project/.github.svg?label=Report%20Issue)](https://github.com/UnixMC-Project/.github/issues)
-[![Pull Requests](https://img.shields.io/github/issues-pr/UnixMC-Project/.github.svg?label=Pull%20Requests)](https://github.com/UnixMC-Project/.github/pulls)
-[![Contribute](https://img.shields.io/badge/How%20to-Contribute-blue.svg)](#how-to-contribute)
-
-Thank you for your interest in contributing to UnixMC! We value your contributions and want to make sure everyone feels welcome to participate.
+Thank you for your interest in contributing to UnixMC! Whether you're looking to report bugs, suggest features, or contribute code, this guide will help you get started.
 
 </div>
 
 ## Table of Contents
 
-- [Initial Steps for Contribution](#initial-steps-for-contribution)
-- [How to Contribute](#how-to-contribute)
-- [Pull Request Process](#pull-request-process)
-- [Coding Standards](#coding-standards)
-- [Questions or Need Help?](#questions-or-need-help)
+- [Understanding the Project](#understanding-the-project)
+- [Initial Engagement](#initial-engagement)
+- [Contribution Opportunities](#contribution-opportunities)
+- [Making Your Contribution](#making-your-contribution)
+- [Community Conduct](#community-conduct)
+- [Questions and Support](#questions-and-support)
 
-## Initial Steps for Contribution
+## Understanding the Project
 
-1. **Join the Community**: Begin by joining our [Discord community](https://discord.gg/unixmc). It's the hub for our discussions, updates, and support.
-2. **Express Interest**: Let us know you're interested in contributing by messaging in the support channel on Discord.
-3. **NDA Agreement**: For certain contributions, signing a Non-Disclosure Agreement (NDA) is required. Our team will guide you through this process.
+Before contributing, take some time to learn about UnixMC:
+- **Read the [README.md](README.md)**: Get to know the purpose, features, and structure of the project.
+- **Review the [Code of Conduct](CODE_OF_CONDUCT.md)**: Understand the standards and expectations for behavior within our community.
 
-## How to Contribute
+## Initial Engagement
 
-After you've joined the community and if applicable, signed an NDA, here's how you can start contributing:
+1. **Join Our Community**: The first step to contributing is joining our [Discord community](https://discord.gg/unixmc). It's where we discuss the project, plan features, and offer support.
+2. **Express Your Interest**: Let us know what you're interested in working on. Whether it's coding, documentation, or community support, your contributions are valuable.
 
-- **[Report Bugs](https://github.com/UnixMC-Project/.github/issues)**: Use our Bug Report Template to provide detailed information about any issues you encounter.
-- **[Suggest Features](https://github.com/UnixMC-Project/.github/issues)**: Have ideas for how to improve UnixMC? Share them using our Feature Request Template.
-- **Code Contributions**: With the necessary permissions, you can contribute directly to the codebase. Please adhere to our coding standards and guidelines.
+## Contribution Opportunities
 
-## Pull Request Process
+- **Bug Reports**: Help improve UnixMC by reporting bugs. Use our [Bug Report Template](BUG_REPORT_TEMPLATE.md) to provide detailed information.
+- **Feature Suggestions**: Have an idea? Submit a feature request using our [Feature Request Template](FEATURE_REQUEST_TEMPLATE.md).
+- **Code Contributions**: Before contributing code, please reach out to us on Discord to discuss your ideas. Due to the project's nature, direct code contributions may require signing a Non-Disclosure Agreement (NDA).
 
-1. **Fork and Clone**: Only if you've been given permission, fork the repository and clone it locally.
-2. **Create a Branch**: Make a dedicated branch for your work.
-3. **Commit Your Changes**: Use clear, descriptive commit messages.
-4. **Submit a Pull Request**: Push your changes and open a pull request against the main UnixMC repository.
-5. **Review**: The UnixMC team will review your PR, provide feedback, and determine if it can be merged.
+## Making Your Contribution
 
-## Coding Standards
+After identifying how you'd like to contribute, follow these steps to make it happen:
+- For **bug reports** and **feature suggestions**, submit an issue on GitHub, following the appropriate template.
+- For **code contributions**:
+  1. Discuss your idea with the project maintainers on Discord.
+  2. Fork the repository (if applicable).
+  3. Create a new branch for your contributions.
+  4. Commit your changes with descriptive messages.
+  5. Open a pull request detailing your changes and how they improve the project.
 
-- Adhere to the project's coding conventions and style guidelines.
-- Comment your code to explain complex logic.
-- Ensure your code is tested thoroughly before submitting a pull request.
+## Community Conduct
 
-## Questions or Need Help?
+All contributors are expected to adhere to our [Code of Conduct](profile/CODE_OF_CONDUCT.md). We're committed to providing a welcoming and supportive environment for all members of our community.
 
-If you're unsure about anything or need help, don't hesitate to ask in our [Discord community](https://discord.gg/unixmc). We're here to help!
+## Questions and Support
+
+If you have any questions or need assistance, don't hesitate to reach out on Discord or open an issue on GitHub for community support.
 
 <div align="center">
 
-**Thank you for contributing to UnixMC! Together, we're building a better Minecraft experience.**
+We're excited to have you join the UnixMC community and look forward to your contributions!
 
 </div>
