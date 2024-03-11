@@ -1,10 +1,10 @@
 <div align="center">
-
+  
 [![EULA](https://img.shields.io/badge/EULA-Read%20Here-blue.svg?style=for-the-badge)](https://github.com/UnixMC-Project/.github/blob/main/EULA.md)
-[![Discord](https://img.shields.io/discord/1057831496926376018.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2?style=for-the-badge)](https://discord.gg/unixmc)
-[![TikTok](https://img.shields.io/badge/TikTok-%40unixmc-red.svg?logo=tiktok?style=for-the-badge)](https://www.tiktok.com/@unixmc)
-[![Twitter Follow](https://img.shields.io/twitter/follow/UnixMCLabs?style=social?style=for-the-badge)](https://twitter.com/UnixMCLabs)
-[![YouTube Channel](https://img.shields.io/badge/YouTube-Subscribe-red.svg?logo=YouTube?style=for-the-badge)](https://www.youtube.com/@UnixMCLabs)
+[![Discord](https://img.shields.io/discord/1057831496926376018.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2&style=for-the-badge)](https://discord.gg/unixmc)
+[![TikTok](https://img.shields.io/badge/TikTok-%40unixmc-red.svg?logo=tiktok&style=for-the-badge)](https://www.tiktok.com/@unixmc)
+[![Twitter Follow](https://img.shields.io/twitter/follow/UnixMCLabs?style=for-the-badge&logo=X)](https://twitter.com/UnixMCLabs)
+[![YouTube Channel](https://img.shields.io/badge/YouTube-Subscribe-red.svg?logo=YouTube&style=for-the-badge)](https://www.youtube.com/@UnixMCLabs)
 [![Website](https://img.shields.io/badge/Website-unixmc.net-blue.svg?style=for-the-badge)](https://www.unixmc.net)
 
 # Welcome to UnixMC
