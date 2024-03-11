@@ -9,7 +9,7 @@
 
 # Welcome to UnixMC
 
-Welcome to the official repository for UnixMC, an immersive and innovative Minecraft experience. UnixMC blends traditional Minecraft gameplay with unique enhancements and features, providing players with an unforgettable adventure.
+Welcome to the official Github for UnixMC, an immersive and innovative Minecraft experience. UnixMC blends traditional Minecraft gameplay with unique enhancements and features, providing players with an unforgettable adventure.
 
 </div>
 
