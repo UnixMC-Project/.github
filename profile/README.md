@@ -22,7 +22,7 @@ Welcome to the official Github for UnixMC, an immersive and innovative Minecraft
 
 ## Getting Started
 
-1. **Install Minecraft**: [The Official Minecraft Launcher](https://minecraft.net/download) or [Feather Client](https://feathermc.com/) or [AtLauncher](https://atlauncher.com/)
+1. **Install Minecraft**: [The Official Minecraft Launcher](https://minecraft.net/download) or [Feather Client](https://feathermc.com/)/[Lunar Client](https://www.lunarclient.com/) or [AtLauncher](https://atlauncher.com/)
 2. **Server Address**: `play.unixmc.net`.
 3. **Explore**: Begin your UnixMC journey!
 
