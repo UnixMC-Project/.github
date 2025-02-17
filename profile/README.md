@@ -50,7 +50,7 @@ We value your feedback and contributions. Please share your bug reports and feat
 ## FAQs
 
 **Q: How do I join the UnixMC server?**  
-A: Ensure you have Minecraft installed, then connect using the server address: `play.unixmc.net`.
+A: Ensure you have Minecraft installed, then connect using the server address: `N/A`.
 
 **Q: Can I contribute to UnixMC?**  
 A: Yes, but due to the project's private nature, please join our Discord and follow the guidelines for potential contributors.
