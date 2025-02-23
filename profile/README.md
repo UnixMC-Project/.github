@@ -6,6 +6,7 @@
 ![Follow @UnixMCLabs](https://img.shields.io/twitter/follow/UnixMCLabs?style=for-the-badge&logo=twitter)
 [![YouTube Channel](https://img.shields.io/badge/YouTube-Subscribe-red.svg?logo=YouTube&style=for-the-badge)](https://www.youtube.com/@UnixMCLabs)
 [![Website](https://img.shields.io/badge/Website-unixmc.net-blue.svg?style=for-the-badge)](https://www.unixmc.net)
+![Made with ❤️ from the UnixMC Team](https://img.shields.io/badge/Made%20with%20❤️-from%20the%20UnixMC%20Team-blue?style=for-the-badge)
 ![Powered by Electricity](https://img.shields.io/badge/Powered%20by-Electricity-yellow?style=for-the-badge&logo=bolt)
 
 
