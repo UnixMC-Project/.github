@@ -3,7 +3,7 @@
 [![EULA](https://img.shields.io/badge/EULA-Read%20Here-blue.svg?style=for-the-badge)](https://github.com/UnixMC-Project/.github/blob/main/EULA.md)
 [![Discord](https://img.shields.io/discord/1057831496926376018.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2&style=for-the-badge)](https://unixmc.com/discord)
 [![Bluesky](https://img.shields.io/badge/Bluesky-%40unixmc-blue.svg?logo=bluesky&style=for-the-badge)](https://www.bksy.app/profile/unixmc.bsky.social)
-[![Twitter Follow](https://img.shields.io/twitter/follow/UnixMCLabs?style=for-the-badge&logo=X)](https://twitter.com/UnixMCLabs)
+![Follow @UnixMCLabs](https://img.shields.io/twitter/follow/UnixMCLabs?style=for-the-badge&logo=twitter)
 [![YouTube Channel](https://img.shields.io/badge/YouTube-Subscribe-red.svg?logo=YouTube&style=for-the-badge)](https://www.youtube.com/@UnixMCLabs)
 [![Website](https://img.shields.io/badge/Website-unixmc.net-blue.svg?style=for-the-badge)](https://www.unixmc.net)
 ![Powered by Electricity](https://img.shields.io/badge/Powered%20by-Electricity-yellow?style=for-the-badge&logo=bolt)
