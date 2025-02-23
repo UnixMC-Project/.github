@@ -7,7 +7,6 @@
 [![YouTube Channel](https://img.shields.io/badge/YouTube-Subscribe-red.svg?logo=YouTube&style=for-the-badge)](https://www.youtube.com/@UnixMCLabs)
 [![Website](https://img.shields.io/badge/Website-unixmc.net-blue.svg?style=for-the-badge)](https://www.unixmc.net)
 ![Powered by Electricity](https://img.shields.io/badge/Powered%20by-Electricity-yellow?style=for-the-badge&logo=bolt)
-![Thanks to Unix Team](https://img.shields.io/badge/Thanks%20to-Unix%20Team-blue?style=for-the-badge&logo=terminal)
 
 
 
