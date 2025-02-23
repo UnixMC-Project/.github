@@ -1,8 +1,8 @@
 <div align="center">
   
 [![EULA](https://img.shields.io/badge/EULA-Read%20Here-blue.svg?style=for-the-badge)](https://github.com/UnixMC-Project/.github/blob/main/EULA.md)
-[![Discord](https://img.shields.io/discord/1057831496926376018.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2&style=for-the-badge)](https://discord.gg/unixmc)
-[![TikTok](https://img.shields.io/badge/TikTok-%40unixmc-red.svg?logo=tiktok&style=for-the-badge)](https://www.tiktok.com/@unixmc)
+[![Discord](https://img.shields.io/discord/1057831496926376018.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2&style=for-the-badge)](https://unixmc.com/discord)
+[![TikTok](https://img.shields.io/badge/Bluesky-%40unixmc-red.svg?logo=bkuesky&style=for-the-badge)](https://www.bksy.app/profile/unixmc.bsky.social)
 [![Twitter Follow](https://img.shields.io/twitter/follow/UnixMCLabs?style=for-the-badge&logo=X)](https://twitter.com/UnixMCLabs)
 [![YouTube Channel](https://img.shields.io/badge/YouTube-Subscribe-red.svg?logo=YouTube&style=for-the-badge)](https://www.youtube.com/@UnixMCLabs)
 [![Website](https://img.shields.io/badge/Website-unixmc.net-blue.svg?style=for-the-badge)](https://www.unixmc.net)
@@ -56,7 +56,7 @@ A: Ensure you have Minecraft installed, then connect using the server address: `
 A: Yes, but due to the project's private nature, please join our Discord and follow the guidelines for potential contributors.
 
 **Q: Where can I report bugs or suggest features?**  
-A: Please report bugs or suggest features through our Discord community.
+A: Please report bugs or suggest features through our [Discord community](https://unixmc.com/discord).
 
 ## License
 
