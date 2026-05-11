@@ -45,6 +45,52 @@ Due to the private nature of this repository, direct contributions via forking a
 
 For more details on contributing, please refer to our [Contributing Guidelines](CONTRIBUTING.md).
 
+### Past Contributors
+Here is a list of our contributors
+jacob
+p1asma
+namboo
+glasshalfempty
+madtappity
+charra
+zetrokzebro
+thicccabbage42
+pixyfur
+gabrieeel
+rcx150
+ocarinaofthyme
+coolpixelpro
+encrypted_noobi
+bamboo20030309
+ember7_58633
+bodya
+tofutooo
+jqstln
+noxit00
+collidacube
+imnotstable
+electrogirl
+qcx
+omgitsgiappy
+aubreyathame
+neocle
+iamyellowhead
+lxlp
+duplexxsystem
+arhippa
+hantz
+nyxianarts
+keiiteruu
+azali
+unknowngif
+dokkywokky
+eldrid
+sleepyaudrey
+justhuman228
+kdladybug
+mrcat77
+draggory
+
 ## Bug Reports and Feature Requests
 
 We value your feedback and contributions. Please share your bug reports and feature requests to help improve UnixMC.
