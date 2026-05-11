@@ -46,7 +46,7 @@ Due to the private nature of this repository, direct contributions via forking a
 For more details on contributing, please refer to our [Contributing Guidelines](CONTRIBUTING.md).
 
 ### Past Contributors
-Here is a list of our contributors
+Here is a list of our contributors  
 jacob
 p1asma
 namboo
