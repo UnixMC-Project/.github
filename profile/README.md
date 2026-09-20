@@ -1,12 +1,11 @@
 <div align="center">
   
 [![EULA](https://img.shields.io/badge/EULA-Read%20Here-blue.svg?style=for-the-badge)](https://github.com/UnixMC-Project/.github/blob/main/EULA.md)
-[![Discord](https://img.shields.io/discord/1057831496926376018.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2&style=for-the-badge)](https://unixmc.com/discord)
-![Tiktok](https://img.shields.io/badge/Tiktok-black?style=for-the-badge&logo=tiktok&link=https%3A%2F%2FTiktok.com%2F%40unixmc)
+[![Discord](https://img.shields.io/discord/1057831496926376018.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2&style=for-the-badge)](https://discord.gg/unixmc)
+![Tiktok](https://img.shields.io/badge/Tiktok-%40UnixMC-blue?style=for-the-badge&logo=tiktok&link=https%3A%2F%2FTiktok.com%2F%40unixmc)
 [![Bluesky](https://img.shields.io/badge/Bluesky-%40unixmc-blue.svg?logo=bluesky&style=for-the-badge)](https://bsky.app/profile/unixmc.bsky.social)
-![X](https://img.shields.io/twitter/follow/UnixMCLabs?style=for-the-badge&logo=twitter)
-[![YouTube Channel](https://img.shields.io/badge/YouTube-Subscribe-red.svg?logo=YouTube&style=for-the-badge)](https://www.youtube.com/@UnixMCLabs)
-[![Website](https://img.shields.io/badge/Website-unixmc.net-blue.svg?style=for-the-badge)](https://www.unixmc.net)
+[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red.svg?logo=YouTube&style=for-the-badge)](https://www.youtube.com/@UnixMCLabs)
+[![Website](https://img.shields.io/badge/Website-unixmc.net-blue.svg?style=for-the-badge)](https://www.unixmc.com)
 ![Made with ❤️ from the UnixMC Team](https://img.shields.io/badge/Made%20with%20❤️-from%20the%20UnixMC%20Team-blue?style=for-the-badge)
 ![Powered by Electricity & Lots of Coffee](https://img.shields.io/badge/Powered%20by-Electricity%20&%20Lots%20of%20Coffee-yellow?style=for-the-badge&logo=bolt&logoColor=white)
 
@@ -29,7 +28,7 @@ Welcome to the official Github for UnixMC, an immersive and innovative Minecraft
 ## Getting Started
 
 1. **Install Minecraft**: [The Official Minecraft Launcher](https://minecraft.net/download) or [Feather Client](https://feathermc.com/)/[Lunar Client](https://www.lunarclient.com/) or [AtLauncher](https://atlauncher.com/)/[Prism Launcher](https://prismlauncher.org/)
-2. **Server Address**: `play.unixmc.com`. - `Currently whitelisted`
+2. **Server Address**: `play.unixmc.com`. - `Version 26.2+`
 3. **Explore**: Begin your UnixMC journey!
 
 ## Support Us
