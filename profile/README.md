@@ -2,8 +2,9 @@
   
 [![EULA](https://img.shields.io/badge/EULA-Read%20Here-blue.svg?style=for-the-badge)](https://github.com/UnixMC-Project/.github/blob/main/EULA.md)
 [![Discord](https://img.shields.io/discord/1057831496926376018.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2&style=for-the-badge)](https://unixmc.com/discord)
+![Static Badge](https://img.shields.io/badge/Tiktok?style=for-the-badge&logo=Tiktok&link=https%3A%2F%2FTiktok.com%2F%40unixmc)
 [![Bluesky](https://img.shields.io/badge/Bluesky-%40unixmc-blue.svg?logo=bluesky&style=for-the-badge)](https://bsky.app/profile/unixmc.bsky.social)
-![Follow @UnixMCLabs](https://img.shields.io/twitter/follow/UnixMCLabs?style=for-the-badge&logo=twitter)
+![X](https://img.shields.io/twitter/follow/UnixMCLabs?style=for-the-badge&logo=twitter)
 [![YouTube Channel](https://img.shields.io/badge/YouTube-Subscribe-red.svg?logo=YouTube&style=for-the-badge)](https://www.youtube.com/@UnixMCLabs)
 [![Website](https://img.shields.io/badge/Website-unixmc.net-blue.svg?style=for-the-badge)](https://www.unixmc.net)
 ![Made with ❤️ from the UnixMC Team](https://img.shields.io/badge/Made%20with%20❤️-from%20the%20UnixMC%20Team-blue?style=for-the-badge)
